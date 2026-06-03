@@ -11,7 +11,7 @@ You'll:
 
 Here is the UML Diagram:
 
-![UML Design](UML_Design.png)
+![UML Design](UML_Diagram.png)
 
 ## 3. What to Run (Demo / Main Program)
 

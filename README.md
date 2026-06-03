@@ -1,4 +1,4 @@
-# Mini LMS – Implementation Task (Language of Your Choice)
+# Mini LMS – Implementation Task (C++)
 
 ## 1. Goal
 
@@ -68,8 +68,8 @@ You’re done when you have:
 - [ ] All classes / interfaces listed above implemented.
 - [ ] In-memory repository classes that store and retrieve objects.
 - [ ] `EnrollmentService` that:
-- [ ] Enrolls students.
-- [ ] Updates progress when lessons are completed.
+- [X] Enrolls students.
+- [X] Updates progress when lessons are completed.
 - [ ] Uses notification channels.
 - [ ] A `main` / demo that:
 - [ ] Creates instructor, student, course, module(s), lesson(s).
